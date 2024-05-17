@@ -1,0 +1,26 @@
+* {
+  font-family: system-ui;
+}
+
+ion-content {
+  --background: linear-gradient(
+    90deg,
+    rgba(24, 20, 83, 1) 0%,
+    rgba(79, 79, 145, 1) 57%,
+    rgba(44, 143, 163, 1) 100%
+  );
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+ion-label {
+  margin-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 120%;
+}
